@@ -1,0 +1,19 @@
+/* Write your code here. */
+.bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/social-buttons-bg.png');
+  display: flex;
+  justify-content: center;
+  background-size: cover;
+  min-height: 100%;
+}
+.heading {
+  font-family: 'Beer Serif';
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.card-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
